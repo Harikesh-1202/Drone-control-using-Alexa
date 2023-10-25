@@ -1,0 +1,15 @@
+1) Drone Command :
+        AwsLambdaExecute
+        AmazonapigatewayInvokeFullAccess
+        AmazonGatewayAdministrator
+        AmazonDynamoDBFullAccess
+
+2) Connection :
+        AmazonapigatewayInvokeFullAccess
+        AmazonDynamoDBFullAccess
+        AwsLambdaExecute
+
+3) Drone :
+        AwsLambdaExecute
+        AmazonapigatewayInvokeFullAccess
+        AmazonDynamoDBFullAccess                
